@@ -1,0 +1,3 @@
+Git is one of the version control systems.
+You can efficiently back up versions of many files.
+You can also easily revert files to any version.
